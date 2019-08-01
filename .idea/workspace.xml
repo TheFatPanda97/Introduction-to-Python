@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6a26c88-70fa-433b-897a-e1c4c9a69dd0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Introduction to Python" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OVMO6Hw8aAWoaNgnWLi7CDEXmW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Assignment 2\Handins" />
+      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\in and out" />
+      <recent name="C:\Users\husha\Documents\Introduction to Python\Class Work" />
+      <recent name="C:\Users\husha\Documents\Introduction to Python\Assignment 1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\game" />
+      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Assignment 3\handins" />
+      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\in and out" />
+      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Assignment 2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Michael_Tian final exam">
+    <configuration name="A5_final[Jack_Wang]" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FInal Project/Jack Wang" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FInal Project/Jack Wang/A5_final[Jack_Wang].py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Michael_Tian final exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FInal Project/Michael Tian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FInal Project/Michael Tian/Michael_Tian final exam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShawnTheMasterOfAllDingDongs[GaryZhou]" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FInal Project/Gary Zhou" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FInal Project/Gary Zhou/ShawnTheMasterOfAllDingDongs[GaryZhou].py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="andy's_final_project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FInal Project/Andy Luo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FInal Project/Andy Luo/andy's_final_project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kevin's final project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FInal Project/Kevin Luo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FInal Project/Kevin Luo/kevin's final project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest calc_avg" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\husha\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment 2/A2_Skeleton.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="calc_avg" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Doctest calc_avg" />
+      <item itemvalue="Python.andy's_final_project" />
+      <item itemvalue="Python.ShawnTheMasterOfAllDingDongs[GaryZhou]" />
+      <item itemvalue="Python.A5_final[Jack_Wang]" />
+      <item itemvalue="Python.kevin's final project" />
+      <item itemvalue="Python.Michael_Tian final exam" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Michael_Tian final exam" />
+        <item itemvalue="Python.kevin's final project" />
+        <item itemvalue="Python.A5_final[Jack_Wang]" />
+        <item itemvalue="Python.ShawnTheMasterOfAllDingDongs[GaryZhou]" />
+        <item itemvalue="Python.andy's_final_project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6a26c88-70fa-433b-897a-e1c4c9a69dd0" name="Default Changelist" comment="" />
+      <created>1562161701635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562161701635</updated>
+      <workItem from="1562161702808" duration="149000" />
+      <workItem from="1562161868435" duration="153000" />
+      <workItem from="1562162048473" duration="114000" />
+      <workItem from="1562168978760" duration="5722000" />
+      <workItem from="1562243439801" duration="196000" />
+      <workItem from="1562252135205" duration="4947000" />
+      <workItem from="1562348993402" duration="1836000" />
+      <workItem from="1562590046372" duration="9575000" />
+      <workItem from="1562760266336" duration="2371000" />
+      <workItem from="1562768398241" duration="52000" />
+      <workItem from="1562775174918" duration="4224000" />
+      <workItem from="1562847074204" duration="1841000" />
+      <workItem from="1562869292519" duration="991000" />
+      <workItem from="1562887590982" duration="17000" />
+      <workItem from="1562938845742" duration="343000" />
+      <workItem from="1562953564234" duration="324000" />
+      <workItem from="1563195518723" duration="567000" />
+      <workItem from="1563199601308" duration="8000" />
+      <workItem from="1563209546857" duration="2802000" />
+      <workItem from="1563279313634" duration="4036000" />
+      <workItem from="1563299964374" duration="2329000" />
+      <workItem from="1563366210548" duration="2654000" />
+      <workItem from="1563369376605" duration="1285000" />
+      <workItem from="1563376483901" duration="11000" />
+      <workItem from="1563380467403" duration="25000" />
+      <workItem from="1563380518718" duration="2899000" />
+      <workItem from="1563451784696" duration="4222000" />
+      <workItem from="1563457058750" duration="5539000" />
+      <workItem from="1563467919445" duration="24000" />
+      <workItem from="1563467964381" duration="5327000" />
+      <workItem from="1563538651045" duration="291000" />
+      <workItem from="1563538961624" duration="6303000" />
+      <workItem from="1563811470046" duration="1564000" />
+      <workItem from="1563900793363" duration="1233000" />
+      <workItem from="1563974334493" duration="6576000" />
+      <workItem from="1564058293498" duration="91000" />
+      <workItem from="1564058427284" duration="1170000" />
+      <workItem from="1564059621130" duration="24726000" />
+      <workItem from="1564405255774" duration="2541000" />
+      <workItem from="1564409103526" duration="9752000" />
+      <workItem from="1564425859415" duration="5613000" />
+      <workItem from="1564493668013" duration="15922000" />
+      <workItem from="1564588094544" duration="7767000" />
+      <workItem from="1564660826627" duration="4086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class Work/password.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$A2_Gary_Zhou_.coverage" NAME="A2[Gary_Zhou] Coverage Results" MODIFIED="1563367597368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$brute.coverage" NAME="brute Coverage Results" MODIFIED="1564163025104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$kevin_s_final_project.coverage" NAME="kevin's final project Coverage Results" MODIFIED="1564664100071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Kevin Luo" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$A1_Solution.coverage" NAME="A1_Solution Coverage Results" MODIFIED="1562694516926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 1" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$visualizer.coverage" NAME="visualizer Coverage Results" MODIFIED="1564406685510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3/handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$testing.coverage" NAME="testing Coverage Results" MODIFIED="1564492738550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_calc_needed.coverage" NAME="Doctest calc_needed Coverage Results" MODIFIED="1563366475109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$A1_Assignment.coverage" NAME="A1_Assignment Coverage Results" MODIFIED="1562349126385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_random_num.coverage" NAME="Doctest random_num Coverage Results" MODIFIED="1562760541223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 1/handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$clien_t.coverage" NAME="clien t Coverage Results" MODIFIED="1564063296800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctests_in_A1Ailen_Meng.coverage" NAME="Doctests in A1Ailen_Meng Coverage Results" MODIFIED="1562847117883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 1/handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$A2Ailen_Meng.coverage" NAME="A2Ailen_Meng Coverage Results" MODIFIED="1563366614799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Michael_Tian_final_exam.coverage" NAME="Michael_Tian final exam Coverage Results" MODIFIED="1564664436321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Michael Tian" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1564601645167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$rational.coverage" NAME="rational Coverage Results" MODIFIED="1563901512195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$ShawnTheMasterOfAllDingDongs_GaryZhou_.coverage" NAME="ShawnTheMasterOfAllDingDongs[GaryZhou] Coverage Results" MODIFIED="1564663183129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Gary Zhou" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1562591548167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_calc_avg.coverage" NAME="Doctest calc_avg Coverage Results" MODIFIED="1562953641056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$A2_Jack_Wang_.coverage" NAME="A2[Jack_Wang] Coverage Results" MODIFIED="1563455895301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$client.coverage" NAME="client Coverage Results" MODIFIED="1564064715982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$chinese.coverage" NAME="chinese Coverage Results" MODIFIED="1563984599690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1564662553010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Alien Meng" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$coordinates.coverage" NAME="coordinates Coverage Results" MODIFIED="1563209609781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$A2_Solution.coverage" NAME="A2_Solution Coverage Results" MODIFIED="1563455865893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$midterm.coverage" NAME="midterm Coverage Results" MODIFIED="1563542900044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$networking.coverage" NAME="networking Coverage Results" MODIFIED="1564064572783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$andy_s_final_project.coverage" NAME="andy's_final_project Coverage Results" MODIFIED="1564662744356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Andy Luo" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$A5_final_Jack_Wang_.coverage" NAME="A5_final[Jack_Wang] Coverage Results" MODIFIED="1564663876682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Jack Wang" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctests_in_A1_Assignment.coverage" NAME="Doctests in A1_Assignment Coverage Results" MODIFIED="1562345611447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$A3_Solution.coverage" NAME="A3_Solution Coverage Results" MODIFIED="1562349159858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$in_out.coverage" NAME="in_out Coverage Results" MODIFIED="1563474447693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/in and out" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctests_in_testing.coverage" NAME="Doctests in testing Coverage Results" MODIFIED="1564492726377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$object.coverage" NAME="object Coverage Results" MODIFIED="1564577080819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_calc_needed__1_.coverage" NAME="Doctest calc_needed (1) Coverage Results" MODIFIED="1563367052141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_calc_avg__1_.coverage" NAME="Doctest calc_avg (1) Coverage Results" MODIFIED="1562869550513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$control_flow.coverage" NAME="control flow Coverage Results" MODIFIED="1563295346662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_varify.coverage" NAME="Doctest varify Coverage Results" MODIFIED="1562760580200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 1/handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$visualizer__1_.coverage" NAME="visualizer (1) Coverage Results" MODIFIED="1564060354413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3/handins" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_add_one.coverage" NAME="Doctest add_one Coverage Results" MODIFIED="1563467070761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$clock.coverage" NAME="clock Coverage Results" MODIFIED="1564144837848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
