@@ -29,8 +29,7 @@ def password_cracker(length):
     return ''.join(guess)
 
 
-# TODO 1 what's the length of the password?
-# password_length = ?
+password_length = 4
 browser = webdriver.Chrome(
     "C:\\Users\\husha\\Downloads\\chromedriver_win32\\chromedriver")
 browser.get("https://pastebin.com/login")
@@ -38,13 +37,10 @@ username = 'IMAPP'
 password = password_cracker(password_length)
 
 inputs = browser.find_elements_by_css_selector("input.post_input.width_390")
-
 btn_login = browser.find_element_by_css_selector("input.button1.btnbig")
 txtf_username = inputs[0]
 txtf_password = inputs[1]
 
-# TODO 2 enter the username and password then login
-################################################################################
-
-
-################################################################################
+txtf_username.send_keys(username)
+txtf_password.send_keys(password)
+btn_login.click()

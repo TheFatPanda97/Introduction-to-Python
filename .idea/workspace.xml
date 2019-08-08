@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a26c88-70fa-433b-897a-e1c4c9a69dd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/brute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/random_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/selenium/classroom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/selenium/cookie_clicker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/selenium/new_computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/selenium/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/selenium/type_racer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/how_to_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/brute_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/download_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Introduction to Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Introduction to Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 3/A3_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/A3_Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 3/handins/Michael_TianA3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/handins/Michael_TianA3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class Work/brute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class Work/password.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class Work/testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FInal Project/Andy Luo/andy's_final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/FInal Project/Andy Luo/andy's_final_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FInal Project/Kevin Luo/kevin's final project.py" beforeDir="false" afterPath="$PROJECT_DIR$/FInal Project/Kevin Luo/kevin's final project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class Work/scavenger hunt/brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class Work/scavenger hunt/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class Work/scavenger hunt/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class Work/scavenger hunt/login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Machine_Learning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Class Work/scavenger hunt" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,17 +70,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\scavenger hunt" />
       <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\game" />
       <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Assignment 3\handins" />
       <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\in and out" />
       <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Assignment 2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python" />
       <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\scavenger hunt" />
       <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\selenium" />
       <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work" />
       <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Assignment 2\Handins" />
-      <recent name="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\in and out" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -108,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.login">
+  <component name="RunManager" selected="Python.brute (1)">
     <configuration name="brute (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction to Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +110,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class Work/scavenger hunt/brute.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\scavenger hunt\brute_solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cookie_clicker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction to Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,12 +127,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class Work/selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class Work/scavenger hunt" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class Work/selenium/cookie_clicker.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\husha\Documents\PycharmProjects\Introduction to Python\Class Work\scavenger hunt\download_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class Work/scavenger hunt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class Work/scavenger hunt/download_solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,28 +177,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class Work/scavenger hunt/login.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="new_computer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Introduction to Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class Work/selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class Work/selenium/new_computer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,20 +227,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Doctest calc_avg" />
-      <item itemvalue="Python.new_computer (1)" />
-      <item itemvalue="Python.cookie_clicker" />
       <item itemvalue="Python.type_racer" />
       <item itemvalue="Python.brute (1)" />
       <item itemvalue="Python.login" />
+      <item itemvalue="Python.download" />
+      <item itemvalue="Python.download_solution" />
+      <item itemvalue="Python tests.Doctest calc_avg" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.login" />
         <item itemvalue="Python.brute (1)" />
+        <item itemvalue="Python.login" />
+        <item itemvalue="Python.download_solution" />
+        <item itemvalue="Python.download" />
         <item itemvalue="Python.type_racer" />
-        <item itemvalue="Python.cookie_clicker" />
-        <item itemvalue="Python.new_computer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -320,8 +308,16 @@
       <workItem from="1565094098380" duration="610000" />
       <workItem from="1565095080086" duration="13349000" />
       <workItem from="1565180810927" duration="36000" />
-      <workItem from="1565180862344" duration="16009000" />
+      <workItem from="1565180862344" duration="20134000" />
     </task>
+    <task id="LOCAL-00001" summary="many new projects">
+      <created>1565267880398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565267880398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +336,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="many new projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="many new projects" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Introduction_to_Python$kevin_s_final_project.coverage" NAME="kevin's final project Coverage Results" MODIFIED="1564675029045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Kevin Luo" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$brute.coverage" NAME="brute Coverage Results" MODIFIED="1565189499759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
@@ -354,6 +354,7 @@
     <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_calc_avg.coverage" NAME="Doctest calc_avg Coverage Results" MODIFIED="1562953641056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$chinese.coverage" NAME="chinese Coverage Results" MODIFIED="1563984599690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1565108341419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/how_to_game" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$download.coverage" NAME="download Coverage Results" MODIFIED="1565269139793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/scavenger hunt" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$classroom.coverage" NAME="classroom Coverage Results" MODIFIED="1565183321166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/selenium" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$networking.coverage" NAME="networking Coverage Results" MODIFIED="1564064572783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$andy_s_final_project.coverage" NAME="andy's_final_project Coverage Results" MODIFIED="1564662744356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Andy Luo" />
@@ -365,7 +366,7 @@
     <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_add_one.coverage" NAME="Doctest add_one Coverage Results" MODIFIED="1563467070761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$A2_Gary_Zhou_.coverage" NAME="A2[Gary_Zhou] Coverage Results" MODIFIED="1563367597368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$type_racer.coverage" NAME="type_racer Coverage Results" MODIFIED="1565208598716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/selenium" />
-    <SUITE FILE_PATH="coverage/Introduction_to_Python$brute__1_.coverage" NAME="brute (1) Coverage Results" MODIFIED="1565267676946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/scavenger hunt" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$brute__1_.coverage" NAME="brute (1) Coverage Results" MODIFIED="1565271363309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/scavenger hunt" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$A1_Solution.coverage" NAME="A1_Solution Coverage Results" MODIFIED="1562694516926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 1" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$visualizer.coverage" NAME="visualizer Coverage Results" MODIFIED="1564406685510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3/handins" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_calc_needed.coverage" NAME="Doctest calc_needed Coverage Results" MODIFIED="1563366475109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
@@ -376,7 +377,7 @@
     <SUITE FILE_PATH="coverage/Introduction_to_Python$new_computer__1_.coverage" NAME="new_computer (1) Coverage Results" MODIFIED="1565208539045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/selenium" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$A2_Jack_Wang_.coverage" NAME="A2[Jack_Wang] Coverage Results" MODIFIED="1563455895301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$client.coverage" NAME="client Coverage Results" MODIFIED="1564064715982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/Introduction_to_Python$login.coverage" NAME="login Coverage Results" MODIFIED="1565267773745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/scavenger hunt" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$login.coverage" NAME="login Coverage Results" MODIFIED="1565270479523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/scavenger hunt" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$coordinates.coverage" NAME="coordinates Coverage Results" MODIFIED="1563209609781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$A2_Solution.coverage" NAME="A2_Solution Coverage Results" MODIFIED="1563455865893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$midterm.coverage" NAME="midterm Coverage Results" MODIFIED="1563542900044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
@@ -384,6 +385,7 @@
     <SUITE FILE_PATH="coverage/Introduction_to_Python$A5_final_Jack_Wang_.coverage" NAME="A5_final[Jack_Wang] Coverage Results" MODIFIED="1564663876682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FInal Project/Jack Wang" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctests_in_A1_Assignment.coverage" NAME="Doctests in A1_Assignment Coverage Results" MODIFIED="1562345611447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$A3_Solution.coverage" NAME="A3_Solution Coverage Results" MODIFIED="1562349159858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python$download_solution.coverage" NAME="download_solution Coverage Results" MODIFIED="1565270303017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/scavenger hunt" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$object.coverage" NAME="object Coverage Results" MODIFIED="1564577080819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_calc_needed__1_.coverage" NAME="Doctest calc_needed (1) Coverage Results" MODIFIED="1563367052141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2/Handins" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python$Doctest_calc_avg__1_.coverage" NAME="Doctest calc_avg (1) Coverage Results" MODIFIED="1562869550513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 2" />
