@@ -68,7 +68,7 @@ def print_board():
 def create_section(section: str):
     """
     Returns a sublist of the specified section.
-    Sublists should always start with an element
+    Sublists should always start with  an element
     in the A column and end with an element in the
     C column.
     >>> create_section("A")

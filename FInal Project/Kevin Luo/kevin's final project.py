@@ -36,10 +36,7 @@ def load_game(board):
     print(colors['reset'])
     ship_col = randint(1, len(board))
     ship_row = randint(1, len(board[0]))
-    return {
-        'ship_col': ship_col,
-        'ship_row': ship_row,
-    }
+    return {'ship_col': ship_col, 'ship_row': ship_row}
 
 
 ship_points = load_game(game_board)
@@ -88,13 +85,13 @@ def input_check(ship_row, ship_col, player, board):
             break
     match = guess_row == ship_row - 1 and guess_col == ship_col - 1
     not_on_game_board = (guess_row < 0 or guess_row > 5) or (
-                guess_col < 0 or guess_col > 5)
+            guess_col < 0 or guess_col > 5)
 
     if match:
         player["wins"] += 1
         print("Congratulations! You sunk my battleship!")
         print('The current match score is %d : %d (Player1 : Player2)' % (
-        player_one["wins"], player_two["wins"]))
+            player_one["wins"], player_two["wins"]))
         print("Thanks for playing!")
         play_again()
 

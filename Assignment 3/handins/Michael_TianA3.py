@@ -68,9 +68,9 @@ def create_section(section: str):
     """
 
 
-print(A)
-print(B)
-print(C)
+    print(A)
+    print(B)
+    print(C)
 
 
 def concat_section(lst):

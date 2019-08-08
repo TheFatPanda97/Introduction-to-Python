@@ -19,7 +19,7 @@ class Check_int:
 
 
 class setup:
-    def setup():
+    def setup(self):
         print('welcome')
         time.sleep(0.5)
         print('to')
